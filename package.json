@@ -12,7 +12,7 @@
     "react-native-animatable": "^1.2.4"
   },
   "peerDependencies": {
-      "react-native": "^0.59.0"
+    "react-native": "^0.61.0"
   },
   "keywords": [
     "radio-button",
